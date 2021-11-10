@@ -2,12 +2,12 @@
   "JSON" : {
     "ver" : "1.0.0",
     "nam" : {
-      "fn" : "Di Caprio",
-      "fnt" : "DI<CAPRIO",
-      "gn" : "Marilù Teresa",
-      "gnt" : "MARILU<TERESA"
+      "fn" : "Dicaprio",
+      "fnt" : "Dicaprio",
+      "gn" : "Leonardo",
+      "gnt" : "Leonardo"
     },
-    "dob" : "1977-06-16",
+    "dob" : "1974-11-11",
     "v" : [ {
       "tg" : "840539006",
       "vp" : "1119349007",
